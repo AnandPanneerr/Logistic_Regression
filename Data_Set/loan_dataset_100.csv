@@ -1,0 +1,101 @@
+Loan_ID,Gender,Married,Education,ApplicantIncome,LoanAmount,Credit_History,Loan_Status
+1,Male,No,Not Graduate,20088,324167,1,Rejected
+2,Male,Yes,Graduate,29685,310836,1,Rejected
+3,Male,Yes,Graduate,32751,142773,0,Rejected
+4,Female,No,Graduate,28997,118216,0,Rejected
+5,Female,No,Not Graduate,23929,231446,1,Rejected
+6,Male,No,Graduate,60273,227757,0,Rejected
+7,Male,Yes,Not Graduate,52832,261309,1,Approved
+8,Female,Yes,Graduate,75379,263269,1,Approved
+9,Male,No,Graduate,20095,247244,1,Rejected
+10,Male,No,Graduate,22559,198472,1,Rejected
+11,Male,No,Not Graduate,42900,330835,0,Rejected
+12,Female,No,Graduate,34482,207026,0,Rejected
+13,Female,No,Not Graduate,39393,362346,0,Rejected
+14,Male,No,Graduate,63552,268698,1,Approved
+15,Female,Yes,Graduate,72258,275714,1,Approved
+16,Female,Yes,Graduate,70845,110857,0,Rejected
+17,Male,Yes,Not Graduate,47318,145523,0,Rejected
+18,Male,Yes,Graduate,38111,369390,1,Approved
+19,Male,No,Not Graduate,35768,264946,0,Rejected
+20,Female,Yes,Not Graduate,50958,242503,0,Rejected
+21,Male,No,Not Graduate,46527,254320,1,Approved
+22,Female,Yes,Graduate,73279,329279,0,Rejected
+23,Male,Yes,Graduate,29226,357595,1,Rejected
+24,Male,No,Not Graduate,54151,332071,1,Approved
+25,Male,Yes,Not Graduate,42214,380114,1,Approved
+26,Male,Yes,Not Graduate,78616,289089,1,Approved
+27,Female,Yes,Not Graduate,36437,301938,1,Approved
+28,Male,Yes,Graduate,36869,352788,0,Rejected
+29,Female,No,Graduate,62815,216984,1,Approved
+30,Female,Yes,Graduate,20174,129086,0,Rejected
+31,Male,Yes,Not Graduate,46220,123431,0,Rejected
+32,Male,Yes,Not Graduate,55687,381278,1,Approved
+33,Male,Yes,Graduate,65088,290953,1,Approved
+34,Female,No,Not Graduate,65153,202769,0,Rejected
+35,Female,Yes,Graduate,33876,313791,1,Approved
+36,Female,Yes,Not Graduate,26245,166035,0,Rejected
+37,Male,Yes,Graduate,64091,270864,0,Rejected
+38,Female,No,Not Graduate,31507,257827,0,Rejected
+39,Female,No,Graduate,46043,242240,0,Rejected
+40,Female,No,Graduate,34633,214407,1,Approved
+41,Male,Yes,Graduate,39502,295797,1,Approved
+42,Male,No,Not Graduate,53415,115376,1,Approved
+43,Male,No,Not Graduate,71246,177152,0,Rejected
+44,Male,Yes,Graduate,45386,202405,1,Approved
+45,Male,Yes,Not Graduate,72736,396844,0,Rejected
+46,Female,Yes,Graduate,75747,326712,0,Rejected
+47,Male,No,Not Graduate,35108,265038,0,Rejected
+48,Female,Yes,Not Graduate,79562,217773,0,Rejected
+49,Male,Yes,Not Graduate,73759,226567,1,Approved
+50,Male,No,Graduate,73738,131569,1,Approved
+51,Female,No,Not Graduate,62037,233257,1,Approved
+52,Female,Yes,Not Graduate,66310,172814,0,Rejected
+53,Female,Yes,Not Graduate,78195,297944,0,Rejected
+54,Female,Yes,Graduate,38945,349280,0,Rejected
+55,Female,Yes,Not Graduate,34452,160949,0,Rejected
+56,Female,No,Not Graduate,72557,244918,0,Rejected
+57,Female,No,Graduate,25698,130862,0,Rejected
+58,Male,Yes,Graduate,64766,171148,0,Rejected
+59,Male,Yes,Graduate,35814,385742,1,Approved
+60,Female,No,Not Graduate,47283,268580,1,Approved
+61,Female,No,Graduate,29154,301081,0,Rejected
+62,Male,No,Not Graduate,33317,352836,1,Approved
+63,Male,Yes,Graduate,47071,218380,0,Rejected
+64,Female,No,Not Graduate,74227,392797,0,Rejected
+65,Male,Yes,Not Graduate,40136,295610,0,Rejected
+66,Male,Yes,Graduate,68830,266943,1,Approved
+67,Female,Yes,Not Graduate,66397,165270,0,Rejected
+68,Female,No,Graduate,51831,330265,1,Approved
+69,Female,Yes,Graduate,48602,389227,1,Approved
+70,Male,No,Graduate,41060,178801,1,Approved
+71,Female,No,Not Graduate,49186,223578,0,Rejected
+72,Female,Yes,Not Graduate,72120,232564,1,Approved
+73,Female,Yes,Graduate,47209,108388,0,Rejected
+74,Female,No,Not Graduate,52740,338180,1,Approved
+75,Female,Yes,Not Graduate,62399,279015,0,Rejected
+76,Female,Yes,Not Graduate,69298,365902,1,Approved
+77,Male,Yes,Graduate,79320,187005,1,Approved
+78,Female,Yes,Not Graduate,22726,376735,1,Rejected
+79,Male,Yes,Graduate,37372,331143,1,Approved
+80,Male,No,Not Graduate,78592,220707,0,Rejected
+81,Female,Yes,Graduate,69754,148635,1,Approved
+82,Female,No,Graduate,33004,172267,0,Rejected
+83,Male,Yes,Not Graduate,65313,331668,0,Rejected
+84,Male,No,Not Graduate,20570,297260,0,Rejected
+85,Male,No,Not Graduate,51364,192641,0,Rejected
+86,Male,No,Not Graduate,48640,143672,0,Rejected
+87,Male,No,Graduate,22584,243444,0,Rejected
+88,Male,Yes,Not Graduate,63504,104856,0,Rejected
+89,Female,No,Not Graduate,67605,203647,0,Rejected
+90,Female,No,Graduate,77532,109374,1,Approved
+91,Female,No,Not Graduate,52292,190426,0,Rejected
+92,Female,Yes,Not Graduate,75651,200516,1,Approved
+93,Female,No,Graduate,73020,369249,1,Approved
+94,Male,No,Not Graduate,59471,231421,1,Approved
+95,Female,Yes,Not Graduate,62067,175400,0,Rejected
+96,Male,Yes,Not Graduate,79192,112954,0,Rejected
+97,Female,Yes,Graduate,63784,292637,0,Rejected
+98,Female,No,Not Graduate,41477,320601,0,Rejected
+99,Male,Yes,Not Graduate,78136,323963,1,Approved
+100,Female,No,Graduate,61914,269379,0,Rejected
